@@ -56,10 +56,7 @@ Passionate about building scalable web applications, solving real-world problems
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdadil1483&show_icons=true&theme=github_dark&cache_seconds=1800" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdadil1483&layout=compact&theme=github_dark&cache_seconds=1800" height="180" />
-</p>
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdadil1483&theme=tokyonight)
 ---
 
 ## 🔥 GitHub Streak
