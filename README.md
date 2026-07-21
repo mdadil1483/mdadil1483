@@ -54,14 +54,8 @@ Passionate about building scalable web applications, solving real-world problems
 
 ---
 
-## 📊 GitHub Stats
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdadil1483&theme=tokyonight)
----
 
-![GitHub Streak](https://streak-stats.demolab.com?user=mdadil1483&theme=tokyonight)
-
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdadil1483&theme=tokyonight)
 
 ## 🔥 GitHub Streak
 
